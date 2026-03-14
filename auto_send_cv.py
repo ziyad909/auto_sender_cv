@@ -4,7 +4,7 @@ from email.message import EmailMessage
 import time
 
 EMAIL = "ziyadch11062006@gmail.com"
-PASSWORD = "nxzs yrjk ifxt sovx"
+PASSWORD = ""
 
 with open("agences.csv",encoding="utf-8") as file:
     reader = csv.DictReader(file)
